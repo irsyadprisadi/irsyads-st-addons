@@ -1,4 +1,4 @@
-# irsyads-st-addons
+# supertux-addons
 addon`s for supertux game
 the repository does not contain the souce code but it contains the zip files ready to use
 
