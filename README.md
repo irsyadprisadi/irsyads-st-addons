@@ -1,10 +1,6 @@
 # irsyads-st-addons
 addon`s for supertux game
-
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+the repository does not contain the souce code but it contains the zip files ready to use
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
