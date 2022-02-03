@@ -2,7 +2,7 @@
 addon's for supertux game
 the repository does not contain the souce code but it contains the zip files ready to use.
 
-supertux version riquired 0.6.2 and 0.6.3
+supertux version riquired and 0.6.3
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
